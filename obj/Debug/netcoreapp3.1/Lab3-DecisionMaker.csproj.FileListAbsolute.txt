@@ -1,0 +1,13 @@
+C:\Users\herri\source\repos\Lab3-DecisionMaker\bin\Debug\netcoreapp3.1\Lab3-DecisionMaker.exe
+C:\Users\herri\source\repos\Lab3-DecisionMaker\bin\Debug\netcoreapp3.1\Lab3-DecisionMaker.deps.json
+C:\Users\herri\source\repos\Lab3-DecisionMaker\bin\Debug\netcoreapp3.1\Lab3-DecisionMaker.runtimeconfig.json
+C:\Users\herri\source\repos\Lab3-DecisionMaker\bin\Debug\netcoreapp3.1\Lab3-DecisionMaker.runtimeconfig.dev.json
+C:\Users\herri\source\repos\Lab3-DecisionMaker\bin\Debug\netcoreapp3.1\Lab3-DecisionMaker.dll
+C:\Users\herri\source\repos\Lab3-DecisionMaker\bin\Debug\netcoreapp3.1\Lab3-DecisionMaker.pdb
+C:\Users\herri\source\repos\Lab3-DecisionMaker\obj\Debug\netcoreapp3.1\Lab3-DecisionMaker.csprojAssemblyReference.cache
+C:\Users\herri\source\repos\Lab3-DecisionMaker\obj\Debug\netcoreapp3.1\Lab3-DecisionMaker.AssemblyInfoInputs.cache
+C:\Users\herri\source\repos\Lab3-DecisionMaker\obj\Debug\netcoreapp3.1\Lab3-DecisionMaker.AssemblyInfo.cs
+C:\Users\herri\source\repos\Lab3-DecisionMaker\obj\Debug\netcoreapp3.1\Lab3-DecisionMaker.csproj.CoreCompileInputs.cache
+C:\Users\herri\source\repos\Lab3-DecisionMaker\obj\Debug\netcoreapp3.1\Lab3-DecisionMaker.dll
+C:\Users\herri\source\repos\Lab3-DecisionMaker\obj\Debug\netcoreapp3.1\Lab3-DecisionMaker.pdb
+C:\Users\herri\source\repos\Lab3-DecisionMaker\obj\Debug\netcoreapp3.1\Lab3-DecisionMaker.genruntimeconfig.cache
